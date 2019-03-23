@@ -29,8 +29,9 @@
 
 }
 .fa-running{
+    font-size: 100px;
+    color: #ED553B;
 
-    
 }
 
 .half-rule { 
@@ -52,4 +53,14 @@
 
     height: 150px;
     width: 180px;
+}
+#imgbkb{
+    height: 150px;
+    width: 180px;
+}
+#imgbici{
+
+    height: 190px;
+    width: 180px;
+
 }
