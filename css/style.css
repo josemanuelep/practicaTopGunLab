@@ -1,0 +1,19 @@
+.hide{
+
+    display: none;
+}
+.card1{
+
+    text-align: center !important;
+    background-color: #112F41;
+    color: aliceblue;
+}
+.list1{
+
+    color: aliceblue;
+    background-color: #112F41 !;
+}
+.fa-github{
+
+    font-size: 25px;
+}
