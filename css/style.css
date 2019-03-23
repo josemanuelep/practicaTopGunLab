@@ -16,4 +16,40 @@
 .fa-github{
 
     font-size: 25px;
+
+}
+.fa-laptop-code{
+    font-size: 100px;
+    color: #47AB6C;
+
+}
+.fa-university{
+    font-size: 100px;
+    color: #F2B134;
+
+}
+.fa-running{
+
+    
+}
+
+.half-rule { 
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+    height: 5px;;
+
+ }
+ .half-ruleEstudios{
+
+    background-color: #F2B134;
+ }
+ .half-ruleProgramar{
+
+    background-color: #47AB6C;
+ }
+#imgUpb{
+
+    height: 150px;
+    width: 180px;
 }
