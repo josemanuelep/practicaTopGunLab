@@ -1,0 +1,66 @@
+.hide{
+
+    display: none;
+}
+.card1{
+
+    text-align: center !important;
+    background-color: #112F41;
+    color: aliceblue;
+}
+.list1{
+
+    color: aliceblue;
+    background-color: #112F41 !;
+}
+.fa-github{
+
+    font-size: 25px;
+
+}
+.fa-laptop-code{
+    font-size: 100px;
+    color: #47AB6C;
+
+}
+.fa-university{
+    font-size: 100px;
+    color: #F2B134;
+
+}
+.fa-running{
+    font-size: 100px;
+    color: #ED553B;
+
+}
+
+.half-rule { 
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+    height: 5px;;
+
+ }
+ .half-ruleEstudios{
+
+    background-color: #F2B134;
+ }
+ .half-ruleProgramar{
+
+    background-color: #47AB6C;
+ }
+#imgUpb{
+
+    height: 150px;
+    width: 180px;
+}
+#imgbkb{
+    height: 150px;
+    width: 180px;
+}
+#imgbici{
+
+    height: 190px;
+    width: 180px;
+
+}
