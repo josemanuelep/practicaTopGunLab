@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    
+    <link rel="stylesheet" href="css/animate.css">
     <title>Soy Jose Manuel Echeverri Palacio
     </title>
 </head>
@@ -20,16 +20,16 @@
              <a id="btnQuienSoy" class="nav-link active" href="#">Quien soy?</a>
            </li>
            <li class="nav-item">
-             <a class="nav-link" href="#">Por que me gusta programar</a>
+             <a id="btnMp" class="nav-link" href="#">Por que me gusta programar</a>
            </li>
            <li class="nav-item">
-             <a class="nav-link disabled" href="#">Estudios</a>
+             <a id="btnEstudios" class="nav-link" href="#">Estudios</a>
            </li>
            <li class="nav-item">
-             <a class="nav-link disabled" href="#">Deportes</a>
+             <a id="btnDeportes" class="nav-link" href="#">Deportes</a>
            </li>
            <li class="nav-item">
-               <a class="nav-link disabled" href="#">Agradecimientos</a>
+               <a id="btnAgra" class="nav-link" href="#">Agradecimientos</a>
            </li>
          </ul>
        </div>
@@ -42,7 +42,7 @@
         <br>
          <!-- Cards -->
          <!-- Card quien soy -->
-        <div id="card1" class="card  mx-auto" style="width: 25rem;">
+        <div id="card1" class="card mx-auto activo animated fadeInRight" style="width: 25rem;">
             <img class="card-img-top" src="img/profile.JPG" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title pb-3">Jose Manuel Echeverri Palacio</h5>
@@ -55,7 +55,7 @@
             </div>
         </div>
         <!-- Card por que me gusta programmar -->
-        <div id="card2" class="card  mx-auto hide" style="width: 25rem;">
+        <div id="card2" class="card mx-auto hide" style="width: 25rem;">
                 <i class="fas fa-laptop-code py-3"></i>
                 <div class="card-body">
                   <h5 class="card-title pb-2">Programar requiere ser muy creativo</h5>
@@ -67,7 +67,7 @@
                 </div>
             </div>
         <!-- Card estudios -->
-        <div id="card3" class="card  mx-auto hide" style="width: 25rem;">
+        <div id="card3" class="card mx-auto hide" style="width: 25rem;">
                 <i class="fas fa-university py-3"></i>
                 <div class="card-body">
                   <h5 class="card-title pb-2">Mis estudios</h5>
@@ -92,7 +92,7 @@
                 </div>
             </div>
             <!-- Deportes -->
-        <div id="card4" class="card  mx-auto hide" style="width: 25rem;">
+        <div id="card4" class="card mx-auto hide" style="width: 25rem;">
                 <i class="fas fa-running py-3"></i>
                 <div class="card-body">
                         <ul class="list-unstyled">
@@ -116,7 +116,7 @@
             </div>
        </div>
         <!-- Card agradecimientos -->
-        <div id="card5" class="card  text-center hide">
+        <div id="card5" class="card mx-auto hide">
                 <div class="card-header">
                   Featured
                 </div>
