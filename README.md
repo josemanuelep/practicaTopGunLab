@@ -8,10 +8,9 @@ Pagina web intereactiva usando HTML, CSS y
 
 Si deseas ver el codigo y ejecutar la aplicacion localmente puedes hacer pull al repo de la rama master, si embargo tambien lo puedes ver aqui: https://josemanuelep.github.io/practicaTopGunLab/
 
-### Prerequisites
+### Prerequisitos
 
-Tener GIT
-Un editor de codigo
+Tener GIT y  Un editor de codigo
 
 ### Desarrollado por
 Jose Manuel Echeverri Palacio
